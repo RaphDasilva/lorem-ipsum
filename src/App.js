@@ -1,10 +1,11 @@
-import React, { useState } from 'react';
-import data from './data';
+import React from 'react';
+import Home from './component/Home';
+
 function App() {
   
   
   return (
-  <h2>lorem ipsum project setup</h2>
+  <Home />
     )
 }
 
